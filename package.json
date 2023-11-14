@@ -1,0 +1,16 @@
+{
+  "name": "iat-ws",
+  "version": "1.0.0",
+  "description": "",
+  "main": "iat-ws-node.js",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1",
+    "nodejs-websocket": "^1.7.2",
+    "ws": "^7.1.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
